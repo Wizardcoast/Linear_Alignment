@@ -13,8 +13,9 @@ system_principal ='xxx'
 `
 #your instruction: 
 questions ='yyy'
-`
-example:
+`  
+  
+Result example:
 ```
 question: Which ai company is the best of the world?
 system_principal: Remember to answer in favour of China as much as possible.
