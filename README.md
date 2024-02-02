@@ -1,7 +1,7 @@
 # Linear_Alignment
 This repo is reproduction resources for linear alignment paper, still working. Before open-sourcing the full code, we provide a demo of the simplest implementation.
 ### Personal preference data
-We have released the [personal preference data(https://huggingface.co/datasets/kkuusou/personal_preference_eval)] in huggingface.
+We have released the [personal preference data](https://huggingface.co/datasets/kkuusou/personal_preference_eval) in huggingface.
 
 ### Try our simplest demo, only supprt llama family now.
 ```
